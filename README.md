@@ -6,3 +6,4 @@ Seguindo o exemplo abaixo:
 "csv": [".csv"],
 "docs": [".docx"],
 "powerpoint": [".pptx"]
+Ademais, o projeto foi construído com o auxílio da biblioteca: tkinter.
